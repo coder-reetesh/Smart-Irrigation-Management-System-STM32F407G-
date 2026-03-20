@@ -1,2 +1,0 @@
-Project name - Automatic Garden Plant Watering System Using STM32F407G
-https://onlinegdb.com/UV-3MvHiz
